@@ -1,0 +1,100 @@
+* {
+    font-family: Roboto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.top {
+    background-color: #1f2937;
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    margin: 0;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+li {
+    font-size: 18px;
+    color: #e5e7eb;
+    list-style-type: none;
+}   
+
+a {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+h1.hero {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+p.hero {
+    font-size: 18px;
+    color: #e5e7eb; 
+}
+
+button {
+    background-color: #3882f6;
+    font-size: 18px;
+    color: #e5e7eb;
+    font-weight: bold;
+    border: none;
+    padding: 4px 30px;
+    text-align: center;
+    margin: 4px;
+    border-radius: 8px;
+}
+
+h2.info {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+p.info {
+    font-size: 18px;
+    color: #1f2937;
+}
+
+div.quote {
+    background-color: #e5e7eb;
+}
+
+h3.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+p.quote {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1f2937;
+}
+
+div.calltoaction {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+h4.call {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p.call {
+    font-size: 18px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
